@@ -49,7 +49,7 @@
 				<false/>
 			</dict>
 		</array>
-		<key>91C343E7-50D8-4B0D-9034-1C16C20DA8D4</key>
+		<key>timg</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
@@ -234,7 +234,7 @@
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>91C343E7-50D8-4B0D-9034-1C16C20DA8D4</string>
+			<string>timg</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -472,7 +472,7 @@
 			<key>ypos</key>
 			<integer>560</integer>
 		</dict>
-		<key>91C343E7-50D8-4B0D-9034-1C16C20DA8D4</key>
+		<key>timg</key>
 		<dict>
 			<key>xpos</key>
 			<integer>270</integer>
